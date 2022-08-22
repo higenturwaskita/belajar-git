@@ -1,0 +1,5 @@
+#Ignore folder log
+log/
+
+# Ignore file_5.txt
+file_5.txt
